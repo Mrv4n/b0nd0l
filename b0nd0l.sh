@@ -109,8 +109,7 @@ echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹››
 
 #install  7grok
 
-4)git clone 
-https://github.com/silverhat007/termux_webscan.git
+4)git clone https://github.com/silverhat007/termux_webscan.git
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 echo -e "${y}Terinstall"
 echo -e "${y}cara menggunakan kalo kurang paham liat google :v"
