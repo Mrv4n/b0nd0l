@@ -3,8 +3,7 @@
 
 # ngapain lu gw bacok mau :v
 # usaha njeng jangan ngerecods_-
-#berpikirlah ketika orang laen bisa kenapa lu ga 
-bisa
+#berpikirlah ketika orang laen bisa kenapa lu ga bisa
 #semua memperlukan belajar_- jangan males tod
 clear
 
@@ -38,7 +37,7 @@ echo -e "≥≤≥≤≥≤≥≤≥≤≥≤≥≤≥≤≥≤≥≤≥≤≥�
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
-echo -e $red"[#]> (Ctrl + C ) Detected, Trying To 
+echo -e $red"[#]> (Ctrl + C ) Detected, Trying To
 Exit ... "
 echo -e $cyan"[#]> Thanks"
 sleep 1
@@ -76,8 +75,7 @@ case $pil in
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 echo -e "${y}Terinstall"
 echo -e "${y}lalin ada lah Lazy linux setau gw ;v"
-echo -e "${y}cara menggunakan kalo kurang paham liat 
-google :v"
+echo -e "${y}cara menggunakan kalo kurang paham liat google :v"
 echo -e "${y}cd LALIN"
 echo -e "${y}chmod +x Lalin.sh"
 echo -e "${y}./Lalin.sh"
@@ -90,8 +88,7 @@ echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹››
 2)git clone https://github.com/Tuhinshubhra/RED_HAWK
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 echo -e "${y} Terinstall"
-echo -e "${y}cara menggunakan kalo kurang paham liat 
-google :v"
+echo -e "${y}cara menggunakan kalo kurang paham liat google :v"
 echo -e "${y} cd RED_HAWK"
 echo -e "${y} php RED_HAWK.php"
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
@@ -100,12 +97,10 @@ echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹››
 
 #install DrakFly-Tool
 
-3)git clone 
-https://github.com/Ranginang67/DarkFly-Tool.git
+3)git clone https://github.com/Ranginang67/DarkFly-Tool.git
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 echo -e "${y}Terinstall"
-echo -e "${y}cara menggunakan kalo kurang paham liat 
-google :v"
+echo -e "${y}cara menggunakan kalo kurang paham liat google :v"
 echo -e "${y}cd Darkfly-Tool"
 echo -e "${y}python2 install.py"
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
@@ -118,8 +113,7 @@ echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹››
 https://github.com/silverhat007/termux_webscan.git
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 echo -e "${y}Terinstall"
-echo -e "${y}cara menggunakan kalo kurang paham liat 
-google :v"
+echo -e "${y}cara menggunakan kalo kurang paham liat google :v"
 echo -e "${y}masuk ke directory/folder7grok"
 echo -e "${y}cd termux_webcan"
 echo -e "${y}/sudo-install.sh"
@@ -136,10 +130,8 @@ echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹››
 5)git clone https://github.com/blackvkng/viSQL.git
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 echo -e "${y} Terinstall"
-echo -e "${y}cara menggunakan kalo kurang paham liat 
-google :v"
-echo -e "${y}python2 -m pip install -r 
-requirements.txt"
+echo -e "${y}cara menggunakan kalo kurang paham liat google :v"
+echo -e "${y}python2 -m pip install -r requirements.txt"
 echo -e "${y}python2 viSQL.py"
 echo -e "‹‹‹‹‹›››››«««««»»»»»‹‹‹‹‹›››››" |lolcat
 
